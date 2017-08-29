@@ -1,0 +1,1 @@
+Notes from the course: https://www.coursera.org/learn/python-plotting/home/welcome
